@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplication1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="pathIn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\BOARD_ALL_ALL\OLD_Comps\Specialist\Sybr_FIFAN\SYABR_SBORKA\Переписка PVV\GAMES\games_mx_i80\</Value>
+    </Setting>
+    <Setting Name="pathOut" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\BOARD_ALL_ALL\OLD_Comps\Specialist\Sybr_FIFAN\SYABR_SBORKA\Переписка PVV\GAMES\games_mx_i80\1\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
